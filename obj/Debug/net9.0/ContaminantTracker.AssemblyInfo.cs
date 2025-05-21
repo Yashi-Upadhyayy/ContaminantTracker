@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContaminantTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b74541b5ea6c8e4ff5d519059bcd4649e8fb4a9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContaminantTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContaminantTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

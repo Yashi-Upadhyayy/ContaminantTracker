@@ -46,3 +46,4 @@ C:\Users\AGXV1ZZ\Documents\ContaminantTracker\bin\Debug\net9.0\Microsoft.Extensi
 C:\Users\AGXV1ZZ\Documents\ContaminantTracker\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\AGXV1ZZ\Documents\ContaminantTracker\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\AGXV1ZZ\Documents\ContaminantTracker\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\AGXV1ZZ\Documents\ContaminantTracker\obj\Debug\net9.0\ContaminantTracker.sourcelink.json
