@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "TvnK844EStHRMMcKEo8GIsXZH74180Ir1r2Lh+poIIw=",
+  "Source": "ContaminantTracker",
+  "BasePath": "_content/ContaminantTracker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
